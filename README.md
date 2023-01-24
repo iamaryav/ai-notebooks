@@ -1,2 +1,2 @@
 # ai-notebooks
-### practicing the ML and AI Algorithms and papers
+### Implementing the ML and AI Algorithms and papers in notebooks
