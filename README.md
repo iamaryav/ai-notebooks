@@ -1,2 +1,2 @@
 # ai-notebooks
-### Implementing the AI Algorithms and papers in notebooks.
+### Implementing the AI and ML Algorithms and papers in notebooks.
