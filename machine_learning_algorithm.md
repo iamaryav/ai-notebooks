@@ -7,3 +7,4 @@
 #### Test the model
 #### check the efficiency of the model or error rate
 #### Try to improve the model
+### Then try to implement library method by yourself to understand the basics
