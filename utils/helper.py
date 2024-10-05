@@ -42,6 +42,8 @@ def compute_gradient(x_train, y_train, w, b):
     dj_db = dj_db / m
     return dj_dw, dj_db
 
-# Method to train the model or in other words fitting the model
 
-def fit(x_train, y_train, w, b, compute_cost, compute, gradient):
+# Method to calculate the Gradient descent
+def gradient_descent(x_train, y_train, w, b, compute_cost, compute_gradient, iterations):
+
+    return hello
