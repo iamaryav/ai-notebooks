@@ -1,6 +1,12 @@
 import numpy as np
+import copy
+
+
+def test1():
+    print("test 1")
 
 def test():
+    test1()
     print("Hello, World!")
 
 # Manually doing dot product
@@ -44,6 +50,17 @@ def compute_gradient(x_train, y_train, w, b):
 
 
 # Method to calculate the Gradient descent
-def gradient_descent(x_train, y_train, w, b, compute_cost, compute_gradient, iterations):
-
-    return hello
+def gradient_descent(x, y, weight, bias, alpha, iterations):
+    # data
+    # calculate the error
+    cost_history = []
+    w = copy.deepcopy(weight)
+    b = bias
+    print(type(b))
+    for i in range(iterations):
+        dj_db, dj_dw = compute_gradient(x, y, w, b)
+        w = w - (alpha * dj_dw)
+        b = b - (alpha * dj_db)
+        cost_history.append(compute_cost(x, y, w, b))
+    print(type(b))
+    return w, b, cost_history
