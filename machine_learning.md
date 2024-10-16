@@ -25,3 +25,6 @@ Types:
 - Ex - Google News
 #### Anomaly Detection
 #### Dimensionality Reduction
+
+Gradient Descent for linear regression:
+* Start with any value for w, b rest will be taken care by the model
