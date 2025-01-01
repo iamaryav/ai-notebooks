@@ -1,14 +1,14 @@
-Start and End of an expression: 
+### Start and End of an expression: 
 $$ $$
-Power/superscript:
+### Power/superscript:
 $$ a^{value} $$
-subscript:
+### subscript:
 $$ a_{value} $$
-Theta Sign:
+### Theta Sign:
 $$ \theta $$
-Sigma Sign:
+### Sigma Sign:
 $$ \sigma $$
-Fraction:
+### Fraction:
 $$ \frac{expression}{expression} $$
 
 
