@@ -1,7 +1,15 @@
-Start and End of an expression - $$ $$
-^ - Power/superscript : $$ a^2 $$
-_ - subscript : $$ a_2 $$
-
+Start and End of an expression: 
+$$ $$
+Power/superscript:
+$$ a^{value} $$
+subscript:
+$$ a_{value} $$
+Theta Sign:
+$$ \theta $$
+Sigma Sign:
+$$ \sigma $$
+Fraction:
+$$ \frac{expression}{expression} $$
 
 
 
