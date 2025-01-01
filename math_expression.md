@@ -36,3 +36,9 @@ $$
 $$
 h_\theta(x) = \sigma({\theta^TX}) = \frac{e^{(\theta_1x_1 + \theta_2x_2 + ...)}}{1 + e^{(\theta_1x_1 + \theta_2x_2 + ...)}}
 $$
+
+### Normal distribution function / Probablity density function
+$$
+f(x) = \frac{1}{\sigma\sqrt{2\pi}}
+e^{- \frac{(x - \mu)^2}{2\sigma^2}}
+$$
