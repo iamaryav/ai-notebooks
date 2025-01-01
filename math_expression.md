@@ -1,19 +1,26 @@
-### Start and End of an expression: 
-$$ $$
+### Start of an equation: 
+\$$
+### End of an equation
+\$$
 ### Power/superscript:
 a^{value}
+
 $$ a^{value} $$
 ### subscript:
 a_{value}
+
 $$ a_{value} $$
 ### Theta Sign:
 \theta
+
 $$ \theta $$
 ### Sigma Sign:
 \sigma
+
 $$ \sigma $$
 ### Fraction:
 \frac{expression}{expression}
+
 $$ \frac{expression}{expression} $$
 
 
