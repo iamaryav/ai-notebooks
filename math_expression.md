@@ -1,3 +1,10 @@
+Start and End of an expression - $$ $$
+^ - Power/superscript : $$ a^2 $$
+_ - subscript : $$ a_2 $$
+
+
+
+
 ### Linear Equation
 $$ f(\theta, x) = \theta_1x_1 + \theta_2x_2 + ...+ \theta_nx_n + b
 $$
