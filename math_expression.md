@@ -1,3 +1,4 @@
+### Download page to see source code
 ### Start of an equation: 
 \$$
 ### End of an equation
@@ -26,7 +27,7 @@ $$ \frac{expression}{expression} $$
 
 Note: To see expression in effect put that in \$$ Your epression here \$$
 
-###Examples:
+### Examples:
 ### Linear Equation
 $$ f(\theta, x) = \theta_1x_1 + \theta_2x_2 + ...+ \theta_nx_n + b
 $$
